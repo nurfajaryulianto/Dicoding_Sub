@@ -1,7 +1,7 @@
 # E-Commerce Public Data Analysis with Python - Dicoding
 ![E-Commerce Data Dashboard](dashboard.gif)
 
-[E-Commerce Data Dashboard Streamlit App](https://e-commerce-data-analyst.streamlit.app/)
+[E-Commerce Data Dashboard Streamlit App](https://dicodingsub-tdcte7xxk9zhjpjs5ac8gk.streamlit.app/)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -22,11 +22,11 @@ This project is a data analysis and visualization project focused on e-commerce 
 ## Installation
 1. Clone this repository to your local machine:
 ```
-git clone https://github.com/nurfajaryulianto/data-analyst-dicoding.git
+git clone https://github.com/nurfajaryulianto/Dicoding_Sub.git
 ```
 2. Go to the project directory
 ```
-cd data-analyst-dicoding
+cd Dicoding_Sub
 ```
 3. Install the required Python packages by running:
 ```
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 3. **Visualization**: Run the Streamlit dashboard for interactive data exploration:
 
 ```
-cd data-analyst-dicoding/dashboard
+cd Dicoding_Sub/dashboard
 streamlit run dashboard.py
 ```
 Access the dashboard in your web browser at `http://localhost:8501`.
